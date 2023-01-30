@@ -492,7 +492,6 @@
 179D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\@parcel\transformer-babel\lib\types.js133190221090617232 0
 152D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\detect-libc133190221088867232 1
 183D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\@parcel\markdown-ansi\lib\markdown-ansi.js133190221087617241 0
-176D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\fractional\releases\fraction-0.2.js133191800637693257 0
 187D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\caniuse-lite\data\features\css-focus-within.js133190221094117221 0
 176D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\svgo\plugins\removeScriptElement.js133190221092517229 0
 155D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\dom-serializer133190221089967231 1
@@ -555,7 +554,7 @@
 169D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\@parcel\transformer-json\src133190221087817255 1
 158D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\path-type\license133190221088167234 0
 158D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\lmdb\package.json133190221093817229 0
-151D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\fractional133191800637643402 1
+
 172D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\core-js\stable\instance\flat.js133190342933438495 0
 164D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\core-js\configurator.js133190342927292598 0
 172D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\yaml\browser\types\timestamp.js133190221091967235 0
@@ -1756,7 +1755,7 @@
 177D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\core-js\full\typed-array\for-each.js133190342933838350 0
 175D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\core-js\full\string\replace-all.js133190342940934106 0
 180D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\core-js\actual\instance\reduce-right.js133190342940434437 0
-161D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\fractional\README.md133191800637530968 0
+
 176D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\svgo\lib\svgo\css-select-adapter.js133190221091217227 0
 158D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\lmdb\src\misc.cpp133190221093267317 0
 173D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\core-js\stable\weak-set\index.js133190342936736390 0
@@ -2369,7 +2368,6 @@
 193D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\caniuse-lite\data\features\form-submit-attributes.js133190221094967221 0
 177D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\core-js\es\string\from-code-point.js133190342934038098 0
 160D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\core-js\stable\json133190342944082005 1
-167D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\fractional\array_mixins.js133191800637530968 0
 172D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\core-js\full\string\fontsize.js133190342933588399 0
 188D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\core-js\full\async-iterator\as-indexed-pairs.js133190342925893537 0
 154D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\msgpackr\dist133190221092267225 1
@@ -3012,21 +3010,20 @@
 157D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\get-port\license133190221088217236 0
 159D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\get-port\readme.md133190221088617235 0
 169D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\core-js\es\instance\every.js133190342931889524 0
-162D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\fractional\index.html133191800637593499 0
+
 168D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\core-js\full\array\slice.js133190342941883553 0
 169D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\core-js\stable\array\some.js133190342942083331 0
 170D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\@parcel\transformer-image\src133190221087817255 1
-160D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\fractional\index.js133191800637593499 0
-164D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\fractional\package.json133191800637530968 0
-160D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\fractional\releases133191800637693257 1
+
+
+
 177D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\core-js\stable\string\virtual\sup.js133190342943082662 0
 176D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\core-js\internals\indexed-object.js133190342936736390 0
 168D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\core-js\actual\parse-int.js133190342939934771 0
 168D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\domutils\lib\index.d.ts.map133190221090067365 0
 176D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\core-js\features\data-view\index.js133190342936086735 0
-160D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\fractional\tests.js133191800637593499 0
+
 173D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\core-js\full\typed-array\keys.js133190342938135967 0
-176D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\fractional\releases\fraction-0.1.js133191800637693257 0
 171D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\core-js\features\string\raw.js133190342940384568 0
 193D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\core-js\actual\object\get-own-property-descriptor.js133190342934487799 0
 159D:\1). Programming\The Complete JavaScript Course 2022 From Zero to Expert!\00 Starter Code Repository (New)\18-forkify\starter\node_modules\fill-range\LICENSE133190221087867240 0
